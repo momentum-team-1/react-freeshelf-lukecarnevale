@@ -1,0 +1,10 @@
+.App {
+  flex-wrap: wrap;
+  padding: 2rem;
+}
+
+.button {
+  background-color: rgb(96, 156, 203);
+  border: none;
+  border-radius: 2rem;
+}
