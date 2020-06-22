@@ -1,7 +1,7 @@
 import React from 'react'
 import './App.css'
 import books from './books.json'
-import { Container, Row, Col, UncontrolledCollapse, Button, CardBody, Card } from 'reactstrap';
+import { UncontrolledCollapse, Button, CardBody, Card } from 'reactstrap';
 
 class App extends React.Component {
   constructor (props) {
